@@ -1,0 +1,5 @@
+1. Liniowość polega na tym, że my de facto próbujemy zoptymalizować współczynniki funkcji w równaniu liniowym y = wx.
+2. Powinienem uzupelnic brakujące wartości (np. w oparciu o medianę), a następnie znormalizować je (wartości w niektórych kolumnach mogą być dużo większe niż w innych przez co wagi będą odwrotnie proporconalnie wielkie).
+3. D F G
+4. regularyzację L1
+5. quasi-newtonowska
