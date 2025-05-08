@@ -1,0 +1,6 @@
+1. polega na znalezieniu prostej separującej 2 typy wektorow. Może działać w przypadku nieseparowalności ale są takie typy które wyrzucają, gdyż z góry ją zakładają.
+2. Kernel nie jest tak naprawdę liniowy w zadanej przestrzeni LUB kernel svm jest wolny O(n^2) a linear szybki O(d)
+3. ad 
+4. O(n^2)
+5. zalety: bardzo prosty, szybki O(d)
+   wady: czuły na hiperparametry, bywa niedokładny

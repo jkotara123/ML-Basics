@@ -1,0 +1,9 @@
+1.
+	1.1 w przypadku drzew typu KD, QUAD - znalezienie punktów w zadanym obszarze
+	1.2 znalezienie k najbliższych sąsiadów dla danego punktu
+	1.3 a bardziej szczegolowo, przewidywanie obrazów które pasują do jakiejś frazy
+	1.4 przewidywanie tych calych molekuł 
+2.
+	można tuningowac metrykę, liczbe sąsiadów, …
+3.
+	afdh
